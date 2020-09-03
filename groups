@@ -1,3 +1,4 @@
 # UUID                                                              	Group Name
 #
+06927e0385aa0ab732b7a73ce0470df17a2d1257                            	saml/oran-gerrit-log-committers
 ldap:cn=oran-gerrit-log-committers,ou=Groups,dc=freestandards,dc=org	ldap/oran-gerrit-log-committers
